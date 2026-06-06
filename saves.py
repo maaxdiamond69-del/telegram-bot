@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 from playwright.async_api import async_playwright
 
-BOT_TOKEN = "8763008810:AAFHttywsRDFSBhvnyEwnwH1uJg9lKKRnEs"
+BOT_TOKEN = "8763008810:AAG8WSzizDGNved0urlhduxK5UySSTUz7Y0"
 
 WEBSITE_1 = "https://ffaccesstokenconverter.onrender.com/"
 WEBSITE_2 = "https://version-common-redflamenco.vercel.app/"
